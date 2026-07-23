@@ -1,0 +1,5 @@
+content_dir: C:\Users\shrus\OneDrive\Desktop\NST_CODE\content_data
+style_dir: C:\Users\shrus\OneDrive\Desktop\NST_CODE\style_data
+Vgg: C:\Users\shrus\OneDrive\Desktop\NST_CODE\vgg_normalize.pth
+experiment: experiment2
+Namespace(content_dir='C:\\Users\\shrus\\OneDrive\\Desktop\\NST_CODE\\content_data', style_dir='C:\\Users\\shrus\\OneDrive\\Desktop\\NST_CODE\\style_data', Vgg='C:\\Users\\shrus\\OneDrive\\Desktop\\NST_CODE\\vgg_normalize.pth', experiment='experiment2')
